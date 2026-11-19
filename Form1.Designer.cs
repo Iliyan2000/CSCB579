@@ -217,7 +217,7 @@ namespace PizzariaKasa
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Каса за поръчки в пицария – [Име], ф.н. [Фак. номер]";
+            this.Text = "Каса за поръчки в пицария";
             this.grpSize.ResumeLayout(false);
             this.grpSize.PerformLayout();
             this.grpExtras.ResumeLayout(false);
